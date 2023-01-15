@@ -1,4 +1,4 @@
-namespace Api
+namespace Battler.Api
 {
     public class WeatherForecast
     {

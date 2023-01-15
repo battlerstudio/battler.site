@@ -1,4 +1,4 @@
-namespace Webmaster.Models
+namespace Battler.Webmaster.Models
 {
     public class ErrorViewModel
     {
